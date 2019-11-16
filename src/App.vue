@@ -7,8 +7,8 @@
                     default-active=1
                     class="el-menu-demo"
                     mode="horizontal"
-                    background-color="#ffffff"
-                    text-color="#545c64"
+                    background-color="#545c64"
+                    text-color="#ffffff"
                     active-text-color="#000000"
             >
                 <el-menu-item class="icon_logo">栗振辉BLOG</el-menu-item>
