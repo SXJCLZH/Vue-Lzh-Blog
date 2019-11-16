@@ -1,5 +1,8 @@
 <template>
   <div class="home">
+
+
+
   </div>
 </template>
 
@@ -13,3 +16,11 @@ export default {
 }
 
 </script>
+
+<style scoped lang="scss" >
+ .home {
+   background: aquamarine;
+   width: 100%;
+   height: 960px;
+ }
+</style>
