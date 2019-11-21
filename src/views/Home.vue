@@ -2,6 +2,7 @@
   <div class="home">
 
 
+    <h1>这是主页</h1>
 
   </div>
 </template>
@@ -19,8 +20,7 @@ export default {
 
 <style scoped lang="scss" >
  .home {
-   background: aquamarine;
    width: 100%;
-   height: 960px;
+   height: 3000px;
  }
 </style>
