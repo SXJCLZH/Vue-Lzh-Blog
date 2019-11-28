@@ -6,11 +6,39 @@
   "description": "VUE CLI  个人博客",
   "glyphs": [
     {
+      "icon_id": "489854",
+      "name": "android",
+      "font_class": "android",
+      "unicode": "ea67",
+      "unicode_decimal": 60007
+    },
+    {
+      "icon_id": "587381",
+      "name": "防密码破解",
+      "font_class": "fangmimapojie",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
       "icon_id": "1294671",
       "name": "QQ",
       "font_class": "QQ",
       "unicode": "e631",
       "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "2045816",
+      "name": "服务器",
+      "font_class": "fuwuqi",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "3370249",
+      "name": "男",
+      "font_class": "nan",
+      "unicode": "e608",
+      "unicode_decimal": 58888
     },
     {
       "icon_id": "3876518",
@@ -27,11 +55,53 @@
       "unicode_decimal": 58936
     },
     {
+      "icon_id": "4773266",
+      "name": "数据开发—脚本开发",
+      "font_class": "shujukaifajiaobenkaifa",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "5634901",
+      "name": "vuejs",
+      "font_class": "vuejs",
+      "unicode": "f25f",
+      "unicode_decimal": 62047
+    },
+    {
       "icon_id": "6007993",
       "name": "微信",
       "font_class": "weixin",
       "unicode": "e632",
       "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "6850821",
+      "name": "java",
+      "font_class": "java",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "7516901",
+      "name": "生活服务",
+      "font_class": "shenghuofuwu",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "7983629",
+      "name": "全部",
+      "font_class": "xingzhuang",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "9058108",
+      "name": "8_4后端开发",
+      "font_class": "_houduankaifa",
+      "unicode": "e606",
+      "unicode_decimal": 58886
     }
   ]
 }

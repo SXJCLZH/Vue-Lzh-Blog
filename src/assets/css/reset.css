@@ -18,3 +18,22 @@ time, mark, audio, video {
     font: inherit;
     vertical-align: baseline;
 }
+
+.contview {
+    margin: 0 auto !important;
+    max-width:1480px;
+    min-width: 960px;
+}
+
+.el-main {
+    background: #ffffff;
+    padding: 0px     !important;
+}
+.zhuti {
+    padding: 0px 0px;
+}
+
+.head {
+    border-bottom: solid 1px #e6e6e6;
+
+}
